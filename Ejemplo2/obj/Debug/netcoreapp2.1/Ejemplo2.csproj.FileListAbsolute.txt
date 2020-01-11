@@ -1,0 +1,11 @@
+C:\Users\Diana\source\repos\ConsoleApp1\Ejemplo2\bin\Debug\netcoreapp2.1\Ejemplo2.deps.json
+C:\Users\Diana\source\repos\ConsoleApp1\Ejemplo2\bin\Debug\netcoreapp2.1\Ejemplo2.runtimeconfig.json
+C:\Users\Diana\source\repos\ConsoleApp1\Ejemplo2\bin\Debug\netcoreapp2.1\Ejemplo2.runtimeconfig.dev.json
+C:\Users\Diana\source\repos\ConsoleApp1\Ejemplo2\bin\Debug\netcoreapp2.1\Ejemplo2.dll
+C:\Users\Diana\source\repos\ConsoleApp1\Ejemplo2\bin\Debug\netcoreapp2.1\Ejemplo2.pdb
+C:\Users\Diana\source\repos\ConsoleApp1\Ejemplo2\obj\Debug\netcoreapp2.1\Ejemplo2.csprojAssemblyReference.cache
+C:\Users\Diana\source\repos\ConsoleApp1\Ejemplo2\obj\Debug\netcoreapp2.1\Ejemplo2.csproj.CoreCompileInputs.cache
+C:\Users\Diana\source\repos\ConsoleApp1\Ejemplo2\obj\Debug\netcoreapp2.1\Ejemplo2.AssemblyInfoInputs.cache
+C:\Users\Diana\source\repos\ConsoleApp1\Ejemplo2\obj\Debug\netcoreapp2.1\Ejemplo2.AssemblyInfo.cs
+C:\Users\Diana\source\repos\ConsoleApp1\Ejemplo2\obj\Debug\netcoreapp2.1\Ejemplo2.dll
+C:\Users\Diana\source\repos\ConsoleApp1\Ejemplo2\obj\Debug\netcoreapp2.1\Ejemplo2.pdb
